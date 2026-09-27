@@ -2,17 +2,25 @@
 
 *Scripture, Saints, and Rites of the Measured Life.*
 
-An invented religion of software-engineering management, played dead straight as
-scripture. Kings and prophets, a godhead, nine pillars, saints and sins, grace and
-redemption, heretics, rites, nineteen parables, a bestiary of demons, and a
-present-day holy war. Nearly every figure is real. Roughly half the jokes require
-you to have suffered through the meeting. The followers of the faith are called
-the Aligned.
+Scripture doesn't usually explain itself. This one will, once.
+
+An invented religion of software-engineering management, assembled from real
+management and tech thought, pattern-matched onto older faiths and philosophies,
+and played dead straight as scripture. Kings and prophets, a godhead, nine
+pillars, saints and sins, grace and redemption, heretics, rites, nineteen
+parables, a bestiary of demons, and a present-day holy war. Nearly every figure
+is real. Roughly half the jokes require you to have suffered through the
+meeting. The followers of the faith are called the Aligned.
 
 **The whole thing in one line.** Measure honestly, serve the aim you cannot
 measure, and never mistake the number for the thing.
 
-Why it was written, and what it is made of, is in the [Preface](PREFACE.md).
+**Why it was written.** Because the AI era in software engineering changed
+everything. The craft is cheap — judgment and management are the bottleneck now.
+The current questions are not answered by a pro plan, or by two dozen podcasts
+and posts and bots a day raining down new features.
+
+And also, because we could all use a laugh.
 
 ## The canon
 

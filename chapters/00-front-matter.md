@@ -83,6 +83,7 @@ The verse-chapters of *The Cadence* may be cited by abbreviation and number, aft
 - **Drucker, the Patriarch** — Peter F. Drucker, 1909–2005, Viennese émigré; who made management a humane discipline and gave it Management by Objectives.
 - **Grove, the Great Prophet** — Andrew S. Grove, born Gróf András István, 1936–2016; the refugee who built Intel and wrote *High Output Management*.
 - **Doerr, the Apostle** — John Doerr, b. 1951, venture capitalist; who carried Grove's OKRs to Google and wrote *Measure What Matters*.
+- **Horowitz, the Zealot** — Ben Horowitz, b. 1966, co-founder of Opsware and of Andreessen Horowitz; who wrote the sequel he had promised to *High Output Management*.
 - **Edmondson, the Prophetess** — Amy Edmondson of Harvard, who named psychological safety.
 - **The People-Analysts, the Discerning Order** — the researchers behind Google's Project Oxygen and Project Aristotle, who measured what makes a manager and a team.
 

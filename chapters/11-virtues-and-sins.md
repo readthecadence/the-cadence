@@ -9,7 +9,7 @@ Before the ledger is drawn in its particulars, the faith keeps the whole of it i
 - **Gaming (the sin of Goodhart)** — optimizing the measure until it no longer means anything.
 - **Sandbagging** — cowardly goals set low to guarantee a perfect score.
 - **The Comfortable Plateau** — the local maximum, sloth's paradise, the stagnation Grove warned against.
-- **The Watermelon** — the hypocrisy of status (the sin against KR 7).
+- **The Watermelon** — the hypocrisy of status (the sin against KR 8).
 - **HiPPO-worship** — bowing to rank over evidence.
 - **The Cult of Output** — mistaking busyness for impact, motion for progress.
 - **Analysis Paralysis** — the scribe who counts forever and ships nothing.

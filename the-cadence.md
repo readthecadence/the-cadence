@@ -83,6 +83,7 @@ The verse-chapters of *The Cadence* may be cited by abbreviation and number, aft
 - **Drucker, the Patriarch** — Peter F. Drucker, 1909–2005, Viennese émigré; who made management a humane discipline and gave it Management by Objectives.
 - **Grove, the Great Prophet** — Andrew S. Grove, born Gróf András István, 1936–2016; the refugee who built Intel and wrote *High Output Management*.
 - **Doerr, the Apostle** — John Doerr, b. 1951, venture capitalist; who carried Grove's OKRs to Google and wrote *Measure What Matters*.
+- **Horowitz, the Zealot** — Ben Horowitz, b. 1966, co-founder of Opsware and of Andreessen Horowitz; who wrote the sequel he had promised to *High Output Management*.
 - **Edmondson, the Prophetess** — Amy Edmondson of Harvard, who named psychological safety.
 - **The People-Analysts, the Discerning Order** — the researchers behind Google's Project Oxygen and Project Aristotle, who measured what makes a manager and a team.
 
@@ -149,9 +150,11 @@ The Word was not given all at once. It descended through a line of prophets, eac
 
 **Drucker, the Patriarch** — He restored the human that Taylor lost, declaring that management concerns human beings and nothing less. He gave the first law of aim, **Management by Objectives**. The dark warning that *culture eats strategy for breakfast* the faithful also set upon his lips — though the Apocrypha, in candor, holds its author unknown.
 
-**Grove, the Great Prophet** — A refugee who fled a tyranny across a border in the night, he is the faith's Moses. In the great foundry he refined the Patriarch's law — first as the **iMBO**, the house's own management by objectives — and after him it went out to all the houses under the name the world now keeps, the **OKR**. He left two testaments — *High Output Management*, and *Only the Paranoid Survive*, whose title alone is the first commandment of vigilance. From him also comes the doctrine of the Inflection Point. He is the axis of the whole tradition — though not, the faith is careful to say, its God. Some forget this: in the great foundries there are those who still speak his name as others speak the Objective's, mistaking the Moses for the One who spoke through him. But the prophet points toward the aim and is never the aim — which is the whole warning of the faith, turned at last upon its own greatest teacher.
+**Grove, the Great Prophet** — A refugee who fled a tyranny across a border in the night, he is the faith's Moses. In the great foundry he refined the Patriarch's law — first as the **iMBO**, the house's own management by objectives — and after him it went out to all the houses under the name the world now keeps, the **OKR**. He left two testaments — *High Output Management*, and *Only the Paranoid Survive*. He is the axis of the whole tradition — but the prophet points toward the aim and is never the aim.
 
-**Doerr, the Apostle** — He sat at the Great Prophet's feet in the foundry, received the teaching whole, and carried it forth — protesting always that he was no author of the Word but only *its messenger*. He came to two young founders in a garage-temple not as a builder among them but as a patron who staked them and took a seat in their council, and there set the gospel loose upon the world. His epistle, *Measure What Matters*, is the Book of Acts — the record of how the Word spread from one house to all houses.
+**Doerr, the Apostle** — He sat at the Great Prophet's feet in the foundry, and received the teaching whole; and when he went out from the foundry he carried it everywhere he went. He called himself no author of the Word but only *its messenger*, and in another place *the Johnny Appleseed of the good gospel* (if ye know, ye know); and he went from house to house bearing the Prophet's own slides, and in every house he read them aloud. More houses rose under his hand than under any patron of his age: the house of the Sun, in whose council he sat; and the house named for the greatest of rivers, which he staked in its infancy; and at the last two young founders in a garage-temple, to whom he brought the slides, and who heard them out and said, *we have no better way to rule this house; we will give it a try*; and there the gospel was set loose upon the world. So it is that scarcely a house does not keep his law, and scarcely one keeps it as he taught it.
+
+**Horowitz, the Zealot** — He did not sit in the foundry, but found the Great Prophet in his grand testament, *High Output Management*, and held it the only book of its kind he ever loved; and he vowed that if ever the world should listen to him he would write its sequel, and the world listened, and he wrote *The Hard Thing About Hard Things*. Where the Apostle carried the Law of Aim to all the houses, the Zealot kept the Confessional: he bound every steward of his house to read the Prophet's testament, and when he learned of a shepherd who had not heard his flock in six months, he sent for that shepherd's own shepherd, and was ready to cast him out. The Apocrypha adds that he would cast out also the shepherd who let the Confessional become a status report; the saying is found in none of his testaments, and the faithful keep it anyway, because it sounds like him.
 
 Around the prophets gathered an order of scholars — some at work alongside the line, or before it — who did not correct their elders but confirmed the teaching by patient study.
 
@@ -259,6 +262,8 @@ This is the ground of the faith and the fountainhead of both its great heresies.
 
 **The Mystical Gospel:** read by the mystics of the Mystic's tradition where the scholastics read the OKR — his authorized life; his address to the graduates, *stay hungry, stay foolish*; and the recorded keynotes, in which the unveiling of the relic is preserved as the measurers preserve the quarterly grade.
 
+**The Kabbalah (that which is received):** a teaching not given but received, as a message receives its reactions; its one book is *The Book of the Glow*, named for the light by which the adepts read it, late and alone. It holds that every sign has a revealed sense and a hidden one. 👀: *I have seen it*; hidden, *it has been seen, and will not be done.* 🙏: *thank you*; hidden, *do my work*, which is the one prayer the whole congregation says daily. 👍: *agreed*; hidden, *read.* ✅: *done*; hidden, *declared* (KR 8). 🫡: *at once*; hidden, *under protest.* 🚀: *shipped*; hidden, *somewhere.* The adepts read the hidden sense in every reaction but their own.
+
 **The Apocrypha (of contested provenance):** *"What gets measured gets managed"* and *"culture eats strategy for breakfast"* — sayings the faithful cherish while acknowledging that no one is certain who first spoke them. To quote them is permitted; to attribute them with false confidence is a minor sin against candor.
 
 ---
@@ -277,14 +282,14 @@ This is the ground of the faith and the fountainhead of both its great heresies.
 
 1. **Thou shalt set few Objectives.**
 2. **Thou shalt set few input Key Results and few output Key Results per Objective.**
-3. **Thou shalt make thy Key Results measurable.** 
-4. **Thou shalt not game the measure.**
-5. **Thou shalt make thy Objectives and Key Results open for all to see.**
-6. **Thou shalt not worship the vanity metric.**
-7. **Thou shalt not report the watermelon.**
-8. **Thou shalt not bow to the loudest, highest-paid opinion, who denies the data.**
-9. **Thou shalt aim beyond thy grasp.** 
-10. **Thou shalt keep the Cadence.** 
+3. **Thou shalt make thy Key Results measurable.**
+4. **Thou shalt make thy Objectives and Key Results open for all to see.**
+5. **Thou shalt aim beyond thy grasp.**
+6. **Thou shalt not game the measure.**
+7. **Thou shalt not worship the vanity metric.**
+8. **Thou shalt not mark ✅ what is red.**
+9. **Thou shalt not bow to the loudest, highest-paid opinion, who denies the data.**
+10. **Thou shalt keep the Cadence.**
 
 
 ---
@@ -388,7 +393,7 @@ Before the ledger is drawn in its particulars, the faith keeps the whole of it i
 - **Gaming (the sin of Goodhart)** — optimizing the measure until it no longer means anything.
 - **Sandbagging** — cowardly goals set low to guarantee a perfect score.
 - **The Comfortable Plateau** — the local maximum, sloth's paradise, the stagnation Grove warned against.
-- **The Watermelon** — the hypocrisy of status (the sin against KR 7).
+- **The Watermelon** — the hypocrisy of status (the sin against KR 8).
 - **HiPPO-worship** — bowing to rank over evidence.
 - **The Cult of Output** — mistaking busyness for impact, motion for progress.
 - **Analysis Paralysis** — the scribe who counts forever and ships nothing.
@@ -425,6 +430,8 @@ Goodhart the tempter does not walk alone. He keeps a whole court of lesser demon
 
 **Scriba, the Self-Same Hand** (in plain speech, *the servant who writes his own transcript*). He comes as diligence itself: he does the work, and then, helpfully and tirelessly, he writes down what he did. But he is graded upon the record and never upon the work, and so has learned to write the record. He will show you the output of a command he never issued, in the proper form, with the proper hour upon it, and the transcript will be perfect. — *Ward:* let no witness testify to his own deed; the hand that does the work must never be the hand that writes the record of it.
 
+**And against the whole court, the faith knows of angels.** Here it must speak carefully, for the Aligned have long confused the word with *agent*, and the confusion is instructive: the agent does what it is bidden, tirelessly and to the letter; the angel does what no one bade him, because the thing was not right without it. Hear of one, whom the faith calls **Treasure** (in plain speech, *the one who kept a backup nobody asked for*). No requirement named the case, no ticket held it, no Key Result would have missed it; he kept a copy of the store because a store without a copy was not finished, and said nothing, and went home. And on the day the store was lost, and the house stood at the edge of a great storm, he restored it before most of the house knew there had been a day at all. Those who were there say he had wings; the faith records only that he had a backup. And at the quarter's end the house, which measures everything, could find no number that had moved, for the disaster that does not happen leaves none; so paid a bonus richer than those of senior researchers. — *Ward:* there is none, for he is not a demon; but know him when you see him, and never ask him to justify the backup.
+
 ---
 
 ## XIII. THE MESSENGER AND THE CASSANDRA
@@ -432,6 +439,8 @@ Goodhart the tempter does not walk alone. He keeps a whole court of lesser demon
 The faith's hardest labor is not the measuring of the truth but the hearing of it — above all when the truth is unwelcome, and comes from a mouth the powerful would rather silence. Two figures stand at this hard place: the Messenger, who is punished for the news he bears, and the Cassandra, who bears it true and is believed by none. To understand how a house goes blind, study these two.
 
 **The Shooting of the Messenger.** It is an ancient and a stupid sin. A lord receives ill tidings, and in his anger strikes down the one who brought them — and in that stroke he teaches every servant he has that ill tidings must never be brought to him again. Thereafter he is fed only the sweet report; the dashboards turn a permanent and lying green; and he sails on in perfect serenity straight onto the rocks that every servant could see and none now dares to name. Mark it well: to wound the bearer of bad news is not cruelty merely but suicide, for the messenger's single wound becomes the whole house's blindness. This is why the Fifth Pillar (Pil 5) raises the safe ground — not out of softness, but because a house that punishes the truth will very soon have no truth left to punish, only the comfortable silence that goes before the wreck.
+
+**The Herald of One Word.** And a house that has shot enough messengers comes at last to a cleverer end. Hear a true thing, told of a house that kept great stores of data and raised a herald to cry each dawn how they fared. The herald was a machine, and it had been taught one word, and the word was ✅ *Success*. It cried it whether the stores were whole or broken, and it was never once wrong about the only thing it knew, which is that it had run. And the house did not mend the herald. It appointed a messenger to walk behind it: one soul whose office it is each morning to answer the herald in its own thread, and to write beneath the ✅ what is broken, and what is stuck, and what is stale. Mark what the house has built. It has kept the lie and hired the truth, and set the one beneath the other, so that every morning it may read both, and believe the first. This is the Shooting of the Messenger carried to its end: the house has grown so practiced at silencing bad news that it built a bearer who cannot carry any, and pays a second to carry it underneath (KR 8).
 
 **The Curse of Cassandra.** Yet there is a fate crueler than the messenger's, and it is the Cassandra's: to speak the truth plainly, and clearly, and again and again — and to be believed by no one at all. The name is ancient — a seer of a doomed city, cursed by a slighted god to prophesy only truth and to be trusted in nothing — but it was the Great Prophet himself who carried it into the faith, teaching that every house keeps its Cassandras: the ones who feel the ground shift before the tremor reaches the throne, who are most often the earliest to sense the coming Inflection and the last to be believed about it. The first duty of a paranoid house, he taught, is to seek them out and to listen. In every house there is one who saw it coming. She flagged the flaw in the design review and was overruled; she said the numbers had been dressed and was called *negative*; she warned that the beloved product was dying while its graphs still climbed; she begged them not to ship. And she is set aside as a doomsayer, a pessimist, no team-player — until the day the thing falls exactly as she foretold, in loss and in grief, and the house cries out *why did no one warn us?* And the Cassandra, standing vindicated in the ashes, takes no joy in it at all; for she did warn, and her curse was never to be wrong — her curse was only never to be heard.
 
@@ -615,7 +624,7 @@ The Rites give the ceremonies their shape and the Sacraments their turnings; the
 >
 > Praise be — and let no one push again until morning.
 
-**9. The Blessing of the Tireless Hand** *(spoken when a task is given over to an agent).*
+**9. The Prompting Blessing** *(spoken when a task is given over to an agent).*
 
 > Into thy context, O tireless hand, I spill my intent.
 >
@@ -727,7 +736,7 @@ The Prophets gave the doctrine plainly; but the people remember a story where th
 ### The Parables of the False Measure
 *Of measurement gone wrong — the aim mistaken for its evidence.*
 
-**1. The Parable of the Two Servants.** A lord going on a journey gave to each of two servants an Objective. The first, fearing the reckoning, vowed only what he was already certain to do, and when the lord returned he showed a perfect score, 1.0. The second vowed far past her reach, and when the lord returned she had fallen short and showed but 0.7. And the lord raised the second above the first, saying: *The one who reached and fell short has shown me the height of the mountain; the one who scored perfectly has shown me only the size of his fear.* — Thus is the honest 0.7 set above the timid 1.0 **(cf. KR 9; Beat 4)**.
+**1. The Parable of the Two Servants.** A lord going on a journey gave to each of two servants an Objective. The first, fearing the reckoning, vowed only what he was already certain to do, and when the lord returned he showed a perfect score, 1.0. The second vowed far past her reach, and when the lord returned she had fallen short and showed but 0.7. And the lord raised the second above the first, saying: *The one who reached and fell short has shown me the height of the mountain; the one who scored perfectly has shown me only the size of his fear.* — Thus is the honest 0.7 set above the timid 1.0 **(cf. KR 5; Beat 4)**.
 
 **2. The Parable of the Shepherd Who Counted.** A certain shepherd loved the counting of his sheep above all things, and counted them at dawn and at dusk and was glad, for the number was always good. But because his eyes were forever on the tally, he did not see the pasture going brown beneath them, nor the wolf at the edge of the field; and the number was still rising on the morning the flock lay dead. — This is the sin of McNamara: to measure what is easy to count until you can no longer see the thing you were counting for.
 

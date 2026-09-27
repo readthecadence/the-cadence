@@ -114,7 +114,7 @@ The Rites give the ceremonies their shape and the Sacraments their turnings; the
 >
 > Praise be — and let no one push again until morning.
 
-**9. The Blessing of the Tireless Hand** *(spoken when a task is given over to an agent).*
+**9. The Prompting Blessing** *(spoken when a task is given over to an agent).*
 
 > Into thy context, O tireless hand, I spill my intent.
 >
