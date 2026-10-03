@@ -89,7 +89,6 @@ The verse-chapters of *The Cadence* may be cited by abbreviation and number, aft
 
 **The Mystic** — *the way of the unmeasured.*
 - **Jobs, the Mystic** — Steve Jobs, 1955–2011, of Apple: cast out, returned, and canonized as the patron of taste over measurement.
-- **The Woz** — Steve Wozniak, b. 1950; who built the first Apple machines by hand while Jobs saw the visions.
 
 ---
 

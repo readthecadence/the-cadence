@@ -1,6 +1,6 @@
 ## XX. THE MARKET — The Fickle God
 
-Against the true Objective — which is unmeasurable and worthy and patient — there stands its great counterfeit: a god who is himself a number, who prices the worth of a House continuously and in public, and who demands to be appeased not once a year but every ninety days without fail. His name is the Market, and the public Houses live and die by his favor.
+Against the true Objective, which is unmeasurable and worthy and patient, there stands its great counterfeit: a god who is himself a number, who prices the worth of a House continuously in public, and who demands to be appeased not once a year but every ninety days without fail. His name is the Market, and the public Houses live and die by his favor.
 
 **The Crowd with a Ticker.** The Aligned who have read of Vainglory already know this god, for he is only the crowd of the square wearing a second face. Where the crowd in the square votes with its cheers, the Market votes with its coin; but it is the same fickle multitude — as easily swayed, as quick to adore and abandon, as certain to cheer a House gladly toward its ruin and forget it by the morning. The value-seekers of old, wiser than most, drew him as a manic partner who appears each dawn in a wholly new humor and shouts a fresh price upon your worth; and they counseled that he was to be used and never heeded — served at your table, but never seated at its head.
 

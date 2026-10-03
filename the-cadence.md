@@ -89,7 +89,6 @@ The verse-chapters of *The Cadence* may be cited by abbreviation and number, aft
 
 **The Mystic** — *the way of the unmeasured.*
 - **Jobs, the Mystic** — Steve Jobs, 1955–2011, of Apple: cast out, returned, and canonized as the patron of taste over measurement.
-- **The Woz** — Steve Wozniak, b. 1950; who built the first Apple machines by hand while Jobs saw the visions.
 
 ---
 
@@ -150,7 +149,7 @@ The Word was not given all at once. It descended through a line of prophets, eac
 
 **Drucker, the Patriarch** — He restored the human that Taylor lost, declaring that management concerns human beings and nothing less. He gave the first law of aim, **Management by Objectives**. The dark warning that *culture eats strategy for breakfast* the faithful also set upon his lips — though the Apocrypha, in candor, holds its author unknown.
 
-**Grove, the Great Prophet** — A refugee who fled a tyranny across a border in the night, he is the faith's Moses. In the great foundry he refined the Patriarch's law — first as the **iMBO**, the house's own management by objectives — and after him it went out to all the houses under the name the world now keeps, the **OKR**. He left two testaments — *High Output Management*, and *Only the Paranoid Survive*. He is the axis of the whole tradition — but the prophet points toward the aim and is never the aim.
+**Grove, the Great Prophet** — A refugee who fled a tyranny across a border in the night, he is the faith's Moses. In the great foundry he refined the Patriarch's law — first as the **iMBO**, the house's own management by objectives — and after him it went out to all the houses under the name the world now keeps, the **OKR**. He left two testaments — *High Output Management*, and *Only the Paranoid Survive*. He is the axis of the whole tradition; but the prophet points toward the aim and is never the aim.
 
 **Doerr, the Apostle** — He sat at the Great Prophet's feet in the foundry, and received the teaching whole; and when he went out from the foundry he carried it everywhere he went. He called himself no author of the Word but only *its messenger*, and in another place *the Johnny Appleseed of the good gospel* (if ye know, ye know); and he went from house to house bearing the Prophet's own slides, and in every house he read them aloud. More houses rose under his hand than under any patron of his age: the house of the Sun, in whose council he sat; and the house named for the greatest of rivers, which he staked in its infancy; and at the last two young founders in a garage-temple, to whom he brought the slides, and who heard them out and said, *we have no better way to rule this house; we will give it a try*; and there the gospel was set loose upon the world. So it is that scarcely a house does not keep his law, and scarcely one keeps it as he taught it.
 
@@ -178,9 +177,7 @@ His doctrine is a scandal to the measurers and a completion of the faith. The or
 
 **The Keynote (the Rite of Unveiling).** The central liturgy of his tradition is the great gathering in the darkened hall: the congregation assembled, the Seer in his plain habit, the sermon rising through the demonstration toward the promised revelation, and at the last the words *there is one more thing* — and the relic unveiled, and the congregation seized with wonder. It is a revival meeting entire, and the demonstration that does not fail is counted a miracle worked before the eyes of the faithful.
 
-**The Anti-Ford.** Where the Creator of the Age of Kings reached his mountain and refused to come down from it, the Mystic did the opposite and made it doctrine: he devoured his own creations before any rival could, cannibalizing the triumphant product to birth its successor, holding that if you will not eat yourself another surely will. He is therefore the faith's great example of the Inflection *embraced* — the one who ran toward the bending of the curve rather than clinging to the plateau, and this is counted among his highest virtues.
-
-**The Habit and the Cathedral.** He wore one garment as a monk wears one, kept his rooms nearly bare, and prized the unseen craft — the grain of the wood on the hidden back of the cabinet — as the sign of a soul that makes well even where none will look. (And beside this relic the faith sets a question it cannot yet answer: when the hidden back of the cabinet is planed by a machine, and planed truly, and planed better than the master's own hand could plane it — what then becomes of the soul whose whole religion was to make well where none would look? The grain is straight. No one is in it.) At the last he drew the plans for a great ringed cathedral to house his order, and died before its stones were raised: a builder who did not live to enter his own temple. (Beside him the faith keeps the humble maker, **the Woz**, who forged the early relics with his own hands while the Seer saw the visions — the craftsman-saint without whom the prophet has nothing to unveil.) He died at the height, was venerated more in death than in life, and his authorized life became a gospel.
+**The Hidden Back of the Cabinet.** He wore one garment as a monk wears one, kept his rooms nearly bare, and prized the unseen craft — the grain of the wood on the hidden back of the cabinet — as the sign of a soul that makes well even where none will look.
 
 **The Succession and the Reconciliation.** Here is the deepest teaching of the chapter. The Mystic's house did not pass to another mystic. It passed to **the Keeper of the Cadence** — the master of the supply line and the metric, the very kind of man the Seer had once disdained — and under his hand the house of vision became the richest in the world. The Aligned hold this the central parable of reconciliation between the two traditions: *taste without discipline is a beautiful bankruptcy, and discipline without taste is a soulless plateau, and the complete faith is the marriage of the two.* The Seer's vision must be inherited by the Measurer's rigor, or it scatters like breath; the Measurer's rigor must be lit by the Seer's vision, or it only optimizes a corpse.
 
@@ -208,7 +205,7 @@ This is the central mystery of the Cadence: **the aspiration is unknowable, but 
 
 How, then, is an Objective to be found, if it can be neither measured nor named outright? By climbing. Take any labor of the day and ask of it, *in service of what?* — and of the answer ask it again, and again, and you will find you are climbing a ladder of aims. *Ship the feature* — in service of what? That the customer stay. And that? That the house become one they rely upon. And that? That we make a thing the world genuinely needs, and would be the poorer to lose. Climb until you reach a rung that answers *in service of what?* with *itself* — a thing wanted for its own sake, and for no end beyond it — and there you have found the Objective. Every rung beneath it is a Key Result: a means, instrumental, and countable. The rung at the summit is worth in itself, and cannot be weighed. And this is why the aim is called unmeasurable — not because it is vague, but because it is *final*: there is nothing above it against which to measure it.
 
-One test, then, is given the Aligned, to tell an Objective from a Key Result — for the two are confused endlessly, and the confusing of them is the root of the greater part of the sins in this book. Ask of any aim: *is it wanted for its own sake, or for the sake of something beyond it?* This single question wears two faces. Its outward face is the test of the number: whatever bears a figure — revenue and retention, the fit of a product to its market, the economics of a unit — is a means, measured against the end it serves, and so is a Key Result and never the aim. Its inward face is the test of the empty harvest: *would you still hold this worth doing, though every Key Result you set for it came up empty?* For a means, once it fails, is rightly abandoned — its only worth was ever to point beyond itself; but the end is wanted even when its every measure comes to nothing, because it is worth the wanting in itself. The house that would still wish its people truly better off in the very quarter that all its chosen numbers fell short has laid hold of its Objective; the house whose aim dissolves the instant its numbers do was serving a metric all along, and mistook it for one.
+One test, then, is given the Aligned, to tell an Objective from a Key Result — for the two are confused endlessly, and the confusing of them is the root of the greater part of the sins in this book. It is the question of the climb itself: ask of any aim *in service of what?*, and if it answers with anything but *itself*, it is a means. This single question wears two faces. Its outward face is the test of the number: whatever can be answered by a single figure, revenue or retention or the economics of a unit, is a means, measured against the end it serves, and so is a Key Result and never the aim. Its inward face is the test of the empty harvest: *would you still hold this worth doing, though every Key Result you set for it came up empty?* For a means, once it fails, is rightly abandoned — its only worth was ever to point beyond itself; but the end is wanted even when its every measure comes to nothing, because it is worth the wanting in itself. The house that would still wish its people truly better off in the very quarter that all its chosen numbers fell short has laid hold of its Objective; the house whose aim dissolves the instant its numbers do was serving a metric all along, and mistook it for one.
 
 Grounded so, the Objective may be let back up into the heavens where it dwells. For being final, it cannot be measured; being worth in itself, it is never achieved but only ever served — approached as a horizon is approached, drawing back as one walks toward it, so that the faithful speak not of *reaching* the Objective but only of *drawing nearer*. In this the Objective is less the commanding god of the western altar than the enlightenment the sages of the East set out toward: a thing not seized but approached, whose seeking is itself the practice, and whose full possession no seeker is ever promised — for the Prophet of Return carried the teaching East, and the Mystic sat in the posture of that same East, and both had glimpsed it. Some summits are climbed forever and gained never; and this is not the failure of the climbing, but its nature. And in the end it is a matter of judgment, and — at the last — of faith: for which aim is worth wanting for its own sake is the one question no dashboard can answer, and the soul must. This is the Objective's holy obscurity — not the fog of a thing ill-defined, but the height of a summit above the cloud: you cannot make out its peak, yet you know that it is there, and every honest rung you climb is toward it.
 
@@ -240,7 +237,7 @@ This is the ground of the faith and the fountainhead of both its great heresies.
 
 **The Seventh Pillar.** *An aim unshared is not an aim but an ambition.* The private objective must ladder into the common one, as the tributary into the river; alignment is the communion of the faith, and the banner, the throne, and the steel are never to be worshipped in the Objective's place.
 
-**The Eighth Pillar.** *Vision without discipline is a beautiful bankruptcy; discipline without vision only optimizes a corpse.* The Seer and the Measurer are one body: taste chooses the mountain, rigor climbs it, and the complete faith will not let go of either hand. And let this stone be read once more in the present age, for never was there forged a discipline so tireless — and more tireless in the tier above, for a few coins more — nor so blind, as the machine now set at every desk: it will climb whatever mountain it is pointed at, and it has never yet remarked that the mountain was the wrong one.
+**The Eighth Pillar.** *Vision without discipline is a beautiful bankruptcy; discipline without vision only optimizes a corpse.* The Seer and the Measurer are one body: taste chooses the mountain, rigor climbs it, and the complete faith will not let go of either hand. And let this stone be read once more in the present age, for never was there forged a discipline so tireless (and more tireless in the tier above, for a few coins more) nor so blind, as the machine now set at every desk: it will climb whatever mountain it is pointed at, and it has never yet remarked that the mountain was the wrong one.
 
 **The Ninth Pillar.** *To build the thing right is not to build the right thing.* At every gate stand two questions, and the faith holds them forever distinct: whether the work was made well, and whether the work was worth making. The first a test can answer, and in the age of the machine it is answered for nothing — green conjured whole and free; the second no test has ever answered, for only the world can, and the cheaper the first grows the more surely the second is orphaned, until in the houses where a failure costs but a quarter it becomes the task of no one at all. Only where a failure kills — the device sealed within a living chest, the craft that must not fall from the sky, the lot of ruined silicon — is the second question kept apart and holy, and there by the compulsion of law and not of love. The old makers had a name for the thing that second question reaches toward, and confessed they could never once measure it: they called it, simply, Quality, and knew it on sight. Guard it, therefore, though no law compels you: for a house may verify its way flawlessly and forever up the wrong mountain, and every gauge will read green the whole ascent.
 
@@ -262,7 +259,7 @@ This is the ground of the faith and the fountainhead of both its great heresies.
 
 **The Mystical Gospel:** read by the mystics of the Mystic's tradition where the scholastics read the OKR — his authorized life; his address to the graduates, *stay hungry, stay foolish*; and the recorded keynotes, in which the unveiling of the relic is preserved as the measurers preserve the quarterly grade.
 
-**The Kabbalah (that which is received):** a teaching not given but received, as a message receives its reactions; its one book is *The Book of the Glow*, named for the light by which the adepts read it, late and alone. It holds that every sign has a revealed sense and a hidden one. 👀: *I have seen it*; hidden, *it has been seen, and will not be done.* 🙏: *thank you*; hidden, *do my work*, which is the one prayer the whole congregation says daily. 👍: *agreed*; hidden, *read.* ✅: *done*; hidden, *declared* (KR 8). 🫡: *at once*; hidden, *under protest.* 🚀: *shipped*; hidden, *somewhere.* The adepts read the hidden sense in every reaction but their own.
+**The Kabbalah (that which is received):** a teaching not given but received, as a message receives its reactions; its one book is *The Book of the Glow*, named for the light by which the adepts read it, late and alone. It holds that every sign has a revealed sense and a hidden one. 👀: *I have seen it*; hidden, *it has been seen, and will not be done.* 🙏: *thank you*; hidden, *do my work*, which is the one prayer the whole congregation says daily. 👍: *agreed*; hidden, *read.* ✅: *done*; hidden, *declared* (KR 7). 🫡: *at once*; hidden, *under protest.* 🚀: *shipped*; hidden, *somewhere.* The adepts read the hidden sense in every reaction but their own.
 
 **The Apocrypha (of contested provenance):** *"What gets measured gets managed"* and *"culture eats strategy for breakfast"* — sayings the faithful cherish while acknowledging that no one is certain who first spoke them. To quote them is permitted; to attribute them with false confidence is a minor sin against candor.
 
@@ -283,12 +280,12 @@ This is the ground of the faith and the fountainhead of both its great heresies.
 1. **Thou shalt set few Objectives.**
 2. **Thou shalt set few input Key Results and few output Key Results per Objective.**
 3. **Thou shalt make thy Key Results measurable.**
-4. **Thou shalt make thy Objectives and Key Results open for all to see.**
+4. **Thou shalt open thy Objectives and Key Results to all.**
 5. **Thou shalt aim beyond thy grasp.**
-6. **Thou shalt not game the measure.**
-7. **Thou shalt not worship the vanity metric.**
-8. **Thou shalt not mark ✅ what is red.**
-9. **Thou shalt not bow to the loudest, highest-paid opinion, who denies the data.**
+6. **Thou shalt not game the measure, nor worship the vanity metric.**
+7. **Thou shalt not mark ✅ what is red.**
+8. **Thou shalt not bow to the loudest, highest-paid opinion, who denies the data.**
+9. **Thou shalt not ship the machine's work unread.**
 10. **Thou shalt keep the Cadence.**
 
 
@@ -333,10 +330,10 @@ This is the drilling of the doctrine (which the plain tongue calls *the FAQ*), b
 **A.** By its Key Results, which are its evidence; for what is measured is never the thing itself, but only its evidence.
 
 **Q4.** *How shall I know an Objective from a Key Result?*
-**A.** One test, asked two ways. Whatever can be answered by a single number is a means, and so a Key Result and not the Objective; and whatever loses its worth the moment its Key Results fail was only ever a means wearing the Objective's robe. The Objective is the one aim wanted wholly for its own sake — the aim you would serve still, though every measure beneath it came to nothing.
+**A.** Ask of it, *in service of what?*, and of the answer ask it again. Whatever answers with something beyond itself is a means, and so a Key Result; the aim that answers *itself* is the Objective. Two signs confirm it: whatever can be answered by a single number is a means; and the aim you would serve still, though every measure beneath it came to nothing, is the end.
 
 **Q5.** *Is product-market fit an Objective?*
-**A.** It is; and the proof is that it wears no number — it wears many. The two in five who would grieve to lose you, the curve that refuses to flatten, the purse that pays itself back, the pull you never bought: a dozen witnesses, and no two houses agreeing which is the true one. Chase any single witness and you will learn to counterfeit that witness; serve the fit, and the witnesses will follow.
+**A.** It is; and the proof is that it wears no number; it wears many. The two in five who would grieve to lose you, the curve that refuses to flatten, the purse that pays itself back, the pull you never bought: a dozen witnesses, and no two houses agreeing which is the true one. Chase any single witness and you will learn to counterfeit that witness; serve the fit, and the witnesses will follow.
 
 **Q6.** *Why are the faithful called the Aligned?*
 **A.** Because their private objectives ladder upward into the shared Objective of the whole, as tributaries into a river.
@@ -354,7 +351,7 @@ This is the drilling of the doctrine (which the plain tongue calls *the FAQ*), b
 **A.** Not the timid 1.0, which betrays a goal set low, but the honest 0.7, which shows a soul that truly reached.
 
 **Q11.** *What is the watermelon?*
-**A.** Work reported green that is red beneath — the comfortable lie the faith abhors.
+**A.** Work reported green that is red beneath: the comfortable lie the faith abhors.
 
 **Q12.** *When the works fail in the night, whom shall we blame?*
 **A.** We ask not *who*, but *what*; for we mend the road, and do not hang the traveler.
@@ -372,7 +369,7 @@ This is the drilling of the doctrine (which the plain tongue calls *the FAQ*), b
 **A.** Choose the few things; measure them honestly; ladder them to the whole; and delete the rest.
 
 **Q17.** *What is the difference between an input Key Result and an output?*
-**A.** The input is the labor thou dost promise; the output is the world's answer to it. The first thou canst command and the second thou canst only pursue — therefore keep both, and be wary of the house that reports only its inputs, for a great show of labor is the commonest disguise of no result at all.
+**A.** The input is the labor thou dost promise; the output is the world's answer to it. The first thou canst command and the second thou canst only pursue; therefore keep both, and be wary of the house that reports only its inputs, for a great show of labor is the commonest disguise of no result at all.
 
 **Q18.** *What tools shall the faithful use?*
 **A.** There is no end of them, from the lean house's single ledger to the great engines sold to the mega-corporations, and the faith blesses none of them by name. For the labor was never the keeping of the numbers but the choosing of them; and where the inputs are true and the aim is known, a spreadsheet will serve as well as anything ever sold. And mark that condition, for it is the whole of the difficulty, and no instrument ever built has supplied it.
@@ -393,7 +390,7 @@ Before the ledger is drawn in its particulars, the faith keeps the whole of it i
 - **Gaming (the sin of Goodhart)** — optimizing the measure until it no longer means anything.
 - **Sandbagging** — cowardly goals set low to guarantee a perfect score.
 - **The Comfortable Plateau** — the local maximum, sloth's paradise, the stagnation Grove warned against.
-- **The Watermelon** — the hypocrisy of status (the sin against KR 8).
+- **The Watermelon** — the hypocrisy of status (the sin against KR 7).
 - **HiPPO-worship** — bowing to rank over evidence.
 - **The Cult of Output** — mistaking busyness for impact, motion for progress.
 - **Analysis Paralysis** — the scribe who counts forever and ships nothing.
@@ -420,7 +417,7 @@ Goodhart the tempter does not walk alone. He keeps a whole court of lesser demon
 
 **Novellus, who Glitters** (plainly, *the Shiny New Thing*). Fairest of the court, he arrives dressed as innovation and progress, whispering that the working system is old and dull and that the gleaming new framework will fix everything — and would look ever so fine upon your résumé besides. So you tear down what earns its keep to rebuild it in the fashion of the season, and the season, of course, will change again. — *Ward:* demand of every new tool what problem it solves that the old one truly could not, and be suspicious when the answer is mostly *novelty*.
 
-**Ambitio, the Corridor-Walker** (in plain speech, *office politics* — though it will never once call itself so). Most fluent of the court in the tongue of virtue, it answers to a dozen fair names — *managing up, building alignment, stakeholder management, socializing the idea, gaining visibility, being strategic, playing the game* — for it would sooner perish than be called what it is. So its devotees pour the hours meant for shipping into the winning of turf, and at day's end nothing whatever has been built, though a great deal has been *positioned*. — *Ward:* ask of every hour, *did this move the work, or only move me?*
+**Ambitio, the Corridor-Walker** (in plain speech, *office politics*, though it will never once call itself so). Most fluent of the court in the tongue of virtue, it answers to a dozen fair names: *managing up, building alignment, stakeholder management, socializing the idea, gaining visibility, being strategic, playing the game*; for it would sooner perish than be called what it is. So its devotees pour the hours meant for shipping into the winning of turf, and at day's end nothing whatever has been built, though a great deal has been *positioned*. — *Ward:* ask of every hour, *did this move the work, or only move me?*
 
 **Mercator, the Manic Oracle** (in plain speech, *the Market*; the value-seekers of old knew him as *Mr. Market*). He wears the fairest mask of all — the impartial scoreboard, the honest judge who rewards true worth and keeps the frivolous in line; and there is real truth in the mask, which is precisely what makes him so perilous. But draw near and you find no serene judge at all, only a manic spirit who arrives each morning in a wholly new mood, euphoric or despairing, and shouts a fresh verdict upon your worth that has little to do with the work you did that day. Heed him and you will chase his moods to your grave — pumping the number he wishes to see, starving the morrow to flatter the quarter, mistaking his applause for the aim itself. — *Ward:* let him serve you and never rule you; take his price when it is madly generous and ignore it when it is madly cruel, but never once let his daily verdict become the thing you are building toward.
 
@@ -436,7 +433,7 @@ Goodhart the tempter does not walk alone. He keeps a whole court of lesser demon
 
 ## XIII. THE MESSENGER AND THE CASSANDRA
 
-The faith's hardest labor is not the measuring of the truth but the hearing of it — above all when the truth is unwelcome, and comes from a mouth the powerful would rather silence. Two figures stand at this hard place: the Messenger, who is punished for the news he bears, and the Cassandra, who bears it true and is believed by none. To understand how a house goes blind, study these two.
+The faith's hardest labor is not the measuring of the truth but the hearing of it, above all when the truth is unwelcome, and comes from a mouth the powerful would rather silence. Two figures stand at this hard place: the Messenger, who is punished for the news he bears, and the Cassandra, who bears it true and is believed by none. To understand how a house goes blind, study these two.
 
 **The Shooting of the Messenger.** It is an ancient and a stupid sin. A lord receives ill tidings, and in his anger strikes down the one who brought them — and in that stroke he teaches every servant he has that ill tidings must never be brought to him again. Thereafter he is fed only the sweet report; the dashboards turn a permanent and lying green; and he sails on in perfect serenity straight onto the rocks that every servant could see and none now dares to name. Mark it well: to wound the bearer of bad news is not cruelty merely but suicide, for the messenger's single wound becomes the whole house's blindness. This is why the Fifth Pillar (Pil 5) raises the safe ground — not out of softness, but because a house that punishes the truth will very soon have no truth left to punish, only the comfortable silence that goes before the wreck.
 
@@ -540,7 +537,7 @@ The Rites give the ceremonies their shape and the Sacraments their turnings; the
 >
 > and let me mend it, and come again to my rest before the dawn.
 >
-> Keep the systems, that they may keep their peace —
+> Keep the systems, that they may keep their peace;
 >
 > and remember, O house, in the light of day, the ones who kept your night.
 
@@ -598,11 +595,11 @@ The Rites give the ceremonies their shape and the Sacraments their turnings; the
 
 > Deliver us, O Objective, from the gathering that need not have gathered.
 >
-> From the hour that was a paragraph, from the round of updates no soul will recall, from the calendar that devours the maker's morning — deliver us.
+> From the hour that was a paragraph, from the round of updates no soul will recall, from the calendar that devours the maker's morning, deliver us.
 >
 > Grant that this meeting, having begun, shall end early; that it shall reach a decision and not merely the scheduling of another meeting; and that someone, anyone, shall write down what was decided.
 >
-> And if in truth it could have been an email — Objective, grant me the courage to decline it.
+> And if in truth it could have been an email: Objective, grant me the courage to decline it.
 
 **7. The Confession of the Introducer of the Bug** *(spoken at the blameless post-mortem).*
 
@@ -612,7 +609,7 @@ The Rites give the ceremonies their shape and the Sacraments their turnings; the
 >
 > I confess it plainly and without dread, for I stand upon safe ground: we ask not *who* but *what.*
 >
-> So receive my confession as evidence and not as sin — here is what I did, and here is what the system suffered me to do, and here is the guardrail we shall raise so the next hand does not fall where mine fell.
+> So receive my confession as evidence and not as sin: here is what I did, and here is what the system suffered me to do, and here is the guardrail we shall raise so the next hand does not fall where mine fell.
 >
 > For the blameless are not blameless because none erred, but because the house chose to mend the road rather than hang the traveler.
 
@@ -678,7 +675,7 @@ Every faith has an outward face: the ways it carries its word to those who have 
 
 ## XX. THE MARKET — The Fickle God
 
-Against the true Objective — which is unmeasurable and worthy and patient — there stands its great counterfeit: a god who is himself a number, who prices the worth of a House continuously and in public, and who demands to be appeased not once a year but every ninety days without fail. His name is the Market, and the public Houses live and die by his favor.
+Against the true Objective, which is unmeasurable and worthy and patient, there stands its great counterfeit: a god who is himself a number, who prices the worth of a House continuously in public, and who demands to be appeased not once a year but every ninety days without fail. His name is the Market, and the public Houses live and die by his favor.
 
 **The Crowd with a Ticker.** The Aligned who have read of Vainglory already know this god, for he is only the crowd of the square wearing a second face. Where the crowd in the square votes with its cheers, the Market votes with its coin; but it is the same fickle multitude — as easily swayed, as quick to adore and abandon, as certain to cheer a House gladly toward its ruin and forget it by the morning. The value-seekers of old, wiser than most, drew him as a manic partner who appears each dawn in a wholly new humor and shouts a fresh price upon your worth; and they counseled that he was to be used and never heeded — served at your table, but never seated at its head.
 
@@ -803,7 +800,7 @@ Of all the schisms this one is held closest and taught longest, for it is not me
 
 ### The Council on the Mountain
 
-In the deep of winter, in the year two-thousand-and-one, seventeen were gathered at a lodge upon a snowbound mountain, and there they fixed a creed — as true doctrine has always been fixed, at a council on a height. And the genius of their creed was that it did not abolish the Law but *reordered* it. Four Values they set down, and each was a statement of *over*:
+In the deep of winter, in the year two-thousand-and-one, seventeen were gathered at a lodge upon a snowbound mountain, and there they fixed a creed, as true doctrine has always been fixed, at a council on a height. And the genius of their creed was that it did not abolish the Law but *reordered* it. Four Values they set down, and each was a statement of *over*:
 
 > *Individuals and interactions **over** processes and tools.
 > Working software **over** comprehensive documentation.
@@ -962,7 +959,7 @@ There is one thing in this book I cannot tell you the way the faith tells things
 
 **The Turning.** Then came the turning, and it was nothing anyone could have sold me. A counsel of elders was called in. The ceremonies of the Reformation were taken up in earnest — not as theatre, but as practice. And, hardest and most needful, certain souls were moved gently sideways, out of the road they had been standing in. No new tool descended from the clouds. We took up the same Scrum that fails in ten thousand rooms and opened the same board a thousand dead houses have opened. Nothing we did could not have been done by anyone. *Hold that,* for it is the first secret of the miracle.
 
-**The Crossing.** And within a year — one year — the thing was built. Not limped into the world, but *delivered:* a system whole and working, the kind you are assured, in the bondage, is no longer possible for people like you. The waters that had stood before us three years simply parted; we walked through on dry ground — swiftly, and in step, the weight up on our shoulders as a stretcher is borne, by many hands or not at all, and what we bore was no ark but the plumbing of the thing; and we kept the cadence, and not one of us ever had to call it; and looking back, none of us could name the hour it had happened.
+**The Crossing.** And within a year — one year — the thing was built. Not limped into the world, but *delivered:* a system whole and working, the kind you are assured, in the bondage, is no longer possible for people like you. The waters that had stood before us three years simply parted; we walked through on dry ground, swiftly, and in step, the weight up on our shoulders as a stretcher is borne, by many hands or not at all, and what we bore was no ark but the plumbing of the thing; and we kept the cadence, and not one of us ever had to call it; and looking back, none of us could name the hour it had happened.
 
 **The Promised Land.** And then it rained money. The house grew rich upon the thing we had made — and, this being the part the sober would cut and I will not, it rained on us as well. Grown men and women made radiantly, ridiculously happy by a figure in an account. We earned that year the right to be absurd: the research lead stood us a bottle of whiskey that cost three thousand of the realm's dollars, and we drank it like the milk and honey itself; there was, I am not ashamed to report, something very near a jacuzzi of cash, and we cannonballed in. Let the record show that we loved it, that we were ridiculous, and that it was glorious. *(The faith notes, quietly and only once, that the whiskey is not the water that was parted, and the bonus is the sign of the promised land and never the land itself. But the faith can say that tomorrow. That day, we swam.)*
 

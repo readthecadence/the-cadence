@@ -12,10 +12,10 @@ This is the drilling of the doctrine (which the plain tongue calls *the FAQ*), b
 **A.** By its Key Results, which are its evidence; for what is measured is never the thing itself, but only its evidence.
 
 **Q4.** *How shall I know an Objective from a Key Result?*
-**A.** One test, asked two ways. Whatever can be answered by a single number is a means, and so a Key Result and not the Objective; and whatever loses its worth the moment its Key Results fail was only ever a means wearing the Objective's robe. The Objective is the one aim wanted wholly for its own sake — the aim you would serve still, though every measure beneath it came to nothing.
+**A.** Ask of it, *in service of what?*, and of the answer ask it again. Whatever answers with something beyond itself is a means, and so a Key Result; the aim that answers *itself* is the Objective. Two signs confirm it: whatever can be answered by a single number is a means; and the aim you would serve still, though every measure beneath it came to nothing, is the end.
 
 **Q5.** *Is product-market fit an Objective?*
-**A.** It is; and the proof is that it wears no number — it wears many. The two in five who would grieve to lose you, the curve that refuses to flatten, the purse that pays itself back, the pull you never bought: a dozen witnesses, and no two houses agreeing which is the true one. Chase any single witness and you will learn to counterfeit that witness; serve the fit, and the witnesses will follow.
+**A.** It is; and the proof is that it wears no number; it wears many. The two in five who would grieve to lose you, the curve that refuses to flatten, the purse that pays itself back, the pull you never bought: a dozen witnesses, and no two houses agreeing which is the true one. Chase any single witness and you will learn to counterfeit that witness; serve the fit, and the witnesses will follow.
 
 **Q6.** *Why are the faithful called the Aligned?*
 **A.** Because their private objectives ladder upward into the shared Objective of the whole, as tributaries into a river.
@@ -33,7 +33,7 @@ This is the drilling of the doctrine (which the plain tongue calls *the FAQ*), b
 **A.** Not the timid 1.0, which betrays a goal set low, but the honest 0.7, which shows a soul that truly reached.
 
 **Q11.** *What is the watermelon?*
-**A.** Work reported green that is red beneath — the comfortable lie the faith abhors.
+**A.** Work reported green that is red beneath: the comfortable lie the faith abhors.
 
 **Q12.** *When the works fail in the night, whom shall we blame?*
 **A.** We ask not *who*, but *what*; for we mend the road, and do not hang the traveler.
@@ -51,7 +51,7 @@ This is the drilling of the doctrine (which the plain tongue calls *the FAQ*), b
 **A.** Choose the few things; measure them honestly; ladder them to the whole; and delete the rest.
 
 **Q17.** *What is the difference between an input Key Result and an output?*
-**A.** The input is the labor thou dost promise; the output is the world's answer to it. The first thou canst command and the second thou canst only pursue — therefore keep both, and be wary of the house that reports only its inputs, for a great show of labor is the commonest disguise of no result at all.
+**A.** The input is the labor thou dost promise; the output is the world's answer to it. The first thou canst command and the second thou canst only pursue; therefore keep both, and be wary of the house that reports only its inputs, for a great show of labor is the commonest disguise of no result at all.
 
 **Q18.** *What tools shall the faithful use?*
 **A.** There is no end of them, from the lean house's single ledger to the great engines sold to the mega-corporations, and the faith blesses none of them by name. For the labor was never the keeping of the numbers but the choosing of them; and where the inputs are true and the aim is known, a spreadsheet will serve as well as anything ever sold. And mark that condition, for it is the whole of the difficulty, and no instrument ever built has supplied it.

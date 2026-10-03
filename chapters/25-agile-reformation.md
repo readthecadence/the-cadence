@@ -4,7 +4,7 @@ Of all the schisms this one is held closest and taught longest, for it is not me
 
 ### The Council on the Mountain
 
-In the deep of winter, in the year two-thousand-and-one, seventeen were gathered at a lodge upon a snowbound mountain, and there they fixed a creed — as true doctrine has always been fixed, at a council on a height. And the genius of their creed was that it did not abolish the Law but *reordered* it. Four Values they set down, and each was a statement of *over*:
+In the deep of winter, in the year two-thousand-and-one, seventeen were gathered at a lodge upon a snowbound mountain, and there they fixed a creed, as true doctrine has always been fixed, at a council on a height. And the genius of their creed was that it did not abolish the Law but *reordered* it. Four Values they set down, and each was a statement of *over*:
 
 > *Individuals and interactions **over** processes and tools.
 > Working software **over** comprehensive documentation.

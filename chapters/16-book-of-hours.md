@@ -30,7 +30,7 @@ The Rites give the ceremonies their shape and the Sacraments their turnings; the
 >
 > and let me mend it, and come again to my rest before the dawn.
 >
-> Keep the systems, that they may keep their peace —
+> Keep the systems, that they may keep their peace;
 >
 > and remember, O house, in the light of day, the ones who kept your night.
 
@@ -88,11 +88,11 @@ The Rites give the ceremonies their shape and the Sacraments their turnings; the
 
 > Deliver us, O Objective, from the gathering that need not have gathered.
 >
-> From the hour that was a paragraph, from the round of updates no soul will recall, from the calendar that devours the maker's morning — deliver us.
+> From the hour that was a paragraph, from the round of updates no soul will recall, from the calendar that devours the maker's morning, deliver us.
 >
 > Grant that this meeting, having begun, shall end early; that it shall reach a decision and not merely the scheduling of another meeting; and that someone, anyone, shall write down what was decided.
 >
-> And if in truth it could have been an email — Objective, grant me the courage to decline it.
+> And if in truth it could have been an email: Objective, grant me the courage to decline it.
 
 **7. The Confession of the Introducer of the Bug** *(spoken at the blameless post-mortem).*
 
@@ -102,7 +102,7 @@ The Rites give the ceremonies their shape and the Sacraments their turnings; the
 >
 > I confess it plainly and without dread, for I stand upon safe ground: we ask not *who* but *what.*
 >
-> So receive my confession as evidence and not as sin — here is what I did, and here is what the system suffered me to do, and here is the guardrail we shall raise so the next hand does not fall where mine fell.
+> So receive my confession as evidence and not as sin: here is what I did, and here is what the system suffered me to do, and here is the guardrail we shall raise so the next hand does not fall where mine fell.
 >
 > For the blameless are not blameless because none erred, but because the house chose to mend the road rather than hang the traveler.
 
