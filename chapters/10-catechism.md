@@ -33,7 +33,7 @@ This is the drilling of the doctrine (which the plain tongue calls *the FAQ*), b
 **A.** Not the timid 1.0, which betrays a goal set low, but the honest 0.7, which shows a soul that truly reached.
 
 **Q11.** *What is the watermelon?*
-**A.** Work reported green that is red beneath: the comfortable lie the faith abhors.
+**A.** Work reported green that is red beneath: the comfortable lie the faith forbids and the quarter rewards.
 
 **Q12.** *When the works fail in the night, whom shall we blame?*
 **A.** We ask not *who*, but *what*; for we mend the road, and do not hang the traveler.

@@ -95,6 +95,8 @@ The verse-chapters of *The Cadence* may be cited by abbreviation and number, aft
 > *"Drive!" they said, and the line began to move.
 > And they measured the moving, and called it good; but no one asked where it was bound.*
 
+*Here beginneth the Origin Story, as the Apostle names it: the Prophet at the whiteboard, [as it was recorded](https://www.youtube.com/watch?v=1ht_1VAF6ik).*
+
 ---
 
 # PART ONE — THE HISTORIES
@@ -259,7 +261,20 @@ This is the ground of the faith and the fountainhead of both its great heresies.
 
 **The Mystical Gospel:** read by the mystics of the Mystic's tradition where the scholastics read the OKR — his authorized life; his address to the graduates, *stay hungry, stay foolish*; and the recorded keynotes, in which the unveiling of the relic is preserved as the measurers preserve the quarterly grade.
 
-**The Kabbalah (that which is received):** a teaching not given but received, as a message receives its reactions; its one book is *The Book of the Glow*, named for the light by which the adepts read it, late and alone. It holds that every sign has a revealed sense and a hidden one. 👀: *I have seen it*; hidden, *it has been seen, and will not be done.* 🙏: *thank you*; hidden, *do my work*, which is the one prayer the whole congregation says daily. 👍: *agreed*; hidden, *read.* ✅: *done*; hidden, *declared* (KR 7). 🫡: *at once*; hidden, *under protest.* 🚀: *shipped*; hidden, *somewhere.* The adepts read the hidden sense in every reaction but their own.
+**The Kabbalah (that which is received):** a teaching not given but received, as a message receives its reactions; its one book is *The Book of the Glow*, named for the light by which the Aligned read it, late and alone. It holds that every sign bears a revealed sense and a hidden one, and it sets the two down in the script of the present age, which admits no commentary and names neither:
+
+```json
+{
+  "👀": ["I have seen it", "it has been seen, and will not be done"],
+  "🙏": ["thank you", "better you than me"],
+  "👍": ["agreed", "read"],
+  "✅": ["done", "declared"],
+  "🫡": ["at once", "under protest"],
+  "🚀": ["shipped", "somewhere"]
+}
+```
+
+Of these the elders note two things: that *better you than me* is the one prayer the whole congregation says daily, and that the second sense of ✅ is forbidden outright (KR 7). The Aligned read the hidden sense in every reaction but their own.
 
 **The Apocrypha (of contested provenance):** *"What gets measured gets managed"* and *"culture eats strategy for breakfast"* — sayings the faithful cherish while acknowledging that no one is certain who first spoke them. To quote them is permitted; to attribute them with false confidence is a minor sin against candor.
 
@@ -351,7 +366,7 @@ This is the drilling of the doctrine (which the plain tongue calls *the FAQ*), b
 **A.** Not the timid 1.0, which betrays a goal set low, but the honest 0.7, which shows a soul that truly reached.
 
 **Q11.** *What is the watermelon?*
-**A.** Work reported green that is red beneath: the comfortable lie the faith abhors.
+**A.** Work reported green that is red beneath: the comfortable lie the faith forbids and the quarter rewards.
 
 **Q12.** *When the works fail in the night, whom shall we blame?*
 **A.** We ask not *who*, but *what*; for we mend the road, and do not hang the traveler.
@@ -469,9 +484,9 @@ The faith knows the objection: that not every prophet of doom is a Cassandra, an
 
 **The One-on-One (the Confessional).** Weekly and private, between the Individual and the Manager-Shepherd. Here radical candor is practiced: care given personally, challenge offered directly. The good shepherd, per the study of Oxygen, is first a coach, and does not micromanage the flock.
 
-**The Quarterly Covenant (High Holy Day).** Four times a year the Objectives are set anew and the Key Results vowed. This is the renewal of the covenant, the great feast of the Cadence.
+**The Quarterly Covenant (High Holy Day).** Four times a year the Objectives are set anew and the Key Results vowed. This is the renewal of the covenant, the great feast of the Cadence. And the vows are of two kinds, and each must be named aloud before the feast is ended: the **aspiration**, which reaches past the grasp; and the **commitment**, marked with the letter C, which the House swears to deliver though schedules bend and hands be moved to do it.
 
-**The Reckoning (Quarterly Grading).** At the quarter's end, each Key Result is graded from 0.0 to 1.0. The 0.3 is confessed, the honest 0.7 is celebrated, the suspiciously perfect 1.0 is examined for the sin of timidity.
+**The Reckoning (Quarterly Grading).** At the quarter's end, each Key Result is graded from 0.0 to 1.0. The 0.3 is confessed, the honest 0.7 is celebrated, the suspiciously perfect 1.0 is examined for the sin of timidity. But the commitment is graded by another law. For it there is no 0.7, honest or otherwise, and no partial credit: it is 1.0 or it is broken. And a commitment that is breaking is not confessed at the Reckoning but cried aloud in the middle of the quarter, while help can still come. The sin is never the commitment; the sin is the vow left unnamed, so that a miss may be baptized an aspiration after the fact.
 
 **The Retro.** The lesser confession, held each sprint: *what went well, what did not, what we shall change.* The Sacred Wheel of Deming turned by hand.
 

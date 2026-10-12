@@ -1,4 +1,4 @@
-# The Cadence: the holy book of software engineering management
+# The Cadence: a version-controlled religion of software engineering management in the AI era
 
 ![The Cadence · Scripture, Saints, and Rites of the Measured Life](assets/banner.png)
 
