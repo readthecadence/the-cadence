@@ -2,6 +2,35 @@
 
 ![The Cadence · Scripture, Saints, and Rites of the Measured Life](assets/banner.png)
 
+## Ask it something
+
+**Before you read any of it — ask it.** Clone the repo and the book answers from
+your terminal. Bring it a message that unsettled you, a pull request, a sentence
+your VP said, or only the feeling.
+
+```
+git clone https://github.com/readthecadence/the-cadence && cd the-cadence && claude
+```
+
+```
+/senior everyone on my team writes "lgtm" on agent output and nobody reads
+the code any more. am i the only one who thinks this is insane?
+```
+
+It answers from the canon, names the chapter, and gives you one thing you can do
+by Thursday. Where the canon is silent it says so, which is the only honest
+answer available. **What is troubling you has a name, and the name is older than
+your Tuesday.**
+
+That last line assumes [Claude Code](https://claude.com/claude-code), which you
+almost certainly already have. If you keep a different agent, open the repo with
+that one instead and hand it
+[`.claude/commands/senior.md`](.claude/commands/senior.md) — the rite is plain
+English and any of them can follow it. `/tldr` gives you the whole faith in a
+paragraph.
+
+## Who this concerns
+
 **You are management now.** Nobody gave you the title and nobody raised your
 pay. You delegate. You review what you did not write. You decide what is worth
 building, and you answer for output you did not produce. That has been the
@@ -56,7 +85,7 @@ measure, and never mistake the number for the thing.
 - **Confess a sin** the ledger has not yet recorded.
 - **Report a corruption of the text**, which is the humble and holy work.
 - **Put a question to the faith**, and it will be answered from the canon or not
-  at all.
+  at all — publicly by Issue, or privately with `/senior` above.
 
 [Open an Issue](../../issues/new) — see [CONTRIBUTING.md](CONTRIBUTING.md),
 *On the Submission of Heresies*.
